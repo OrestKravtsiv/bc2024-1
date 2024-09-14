@@ -1,2 +1,2 @@
-let name = "OrestKravtsiv";
+var name = "OrestKravtsiv";
 console.log("Hello, " + name);
